@@ -1,18 +1,12 @@
-## Getting Started
+# Imersão Java Alura - Aula 02
+Este repositório contém o código desenvolvido durante a segunda aula da Imersão Java da Alura.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descrição
+O objetivo da aula foi criar um código gerador de stickers para whatsapp. Aprendemos a manipular imagens e inputStreams.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Como executar o projeto
+- Para executar o projeto, você precisará ter o Java instalado em sua máquina. Em seguida, clone este repositório em sua máquina local:
+```bash
+git clone https://github.com/jeangabrielrsf/imersaoJava-Alura__aula02.git
+```
+- Abra o projeto em sua IDE de preferência e execute a classe "main", localizada no arquivo StickerGenerator.java
